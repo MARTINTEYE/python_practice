@@ -1,1 +1,1 @@
-this is my first python project without assistance
+a simple interest calculation
